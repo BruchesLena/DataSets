@@ -15,3 +15,46 @@ Anntotation: each pair is annotated in the following way:
  Conatains only andjectives which are used for quantity.
  
  Size: 38 pairs
+ 
+ 
+ ## Question frames
+ ### [Question beginnings](https://raw.githubusercontent.com/BruchesLena/DataSets/master/questBeginnings.txt)
+ File contains 91 question beginnings for English, sorted in alphabetic order.
+ ### [Question frames]()
+ *later*
+ 
+ ## Attributes
+ There are some data sets for the task of determining whether the given adjective is an attribute for a noun or not (e.g. *fast* is an attribute for *speed* but not for *weight*).
+ ### [Nouns and their attributes](https://raw.githubusercontent.com/BruchesLena/DataSets/master/nounToAdjAntonyms.txt)
+Created via WordNet in NLTK. Contains about 700 groups.
+
+Organized in the following way:
+
+`Noun : its attributes`
+
+Example:
+
+`sureness:incertain, certain, sure, uncertain, unsure`
+
+### [Attributes and their nouns](https://raw.githubusercontent.com/BruchesLena/DataSets/master/AdjToNouns.txt)
+Inverted set from the previous one. Countains about 860 groups.
+
+Organized in the following way:
+
+`Adjective: nouns which it belongs to`
+
+Example:
+
+`long:duration, length`
+
+### [Data set for this task](https://raw.githubusercontent.com/BruchesLena/DataSets/master/testSet.txt)
+
+Contains 200 samples, 3-5 candidates in each sample.
+
+Organized in the following way:
+
+`Adjective:Right noun:set of noun candidates`
+
+Example:
+
+`deep:depth:orient,fervor,depth,likelihood`
