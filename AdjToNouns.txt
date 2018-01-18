@@ -1,0 +1,1734 @@
+inanimate:animateness, liveness, inanimateness, aliveness, 
+ ========================== 
+benign:benignity, malignity, graciousness, benignancy, 
+ ========================== 
+unhearable:inaudibility, audibility, audibleness, 
+ ========================== 
+wrong:incorrectness, rightness, correctness, 
+ ========================== 
+wrong:rightness, wrongness, 
+ ========================== 
+sensational:sensationalism, 
+ ========================== 
+lively:liveliness, life, sprightliness, spirit, 
+ ========================== 
+dirty:dirtiness, cleanness, 
+ ========================== 
+blond:skin_colour, complexion, skin_color, 
+ ========================== 
+better:quality, 
+ ========================== 
+better:good, goodness, evil, 
+ ========================== 
+unairworthy:airworthiness, 
+ ========================== 
+unsubstantial:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+incertain:confidence, self-confidence, certainty, uncertainty, self-assurance, authority, sureness, assurance, 
+ ========================== 
+intelligent:intelligence, stupidity, 
+ ========================== 
+originative:creativeness, creative_thinking, creativity, 
+ ========================== 
+false:trueness, verity, the_true, truth, falsity, 
+ ========================== 
+unascribable:ascription, attribution, 
+ ========================== 
+reasonable:reasonableness, 
+ ========================== 
+nonliving:animateness, liveness, inanimateness, aliveness, 
+ ========================== 
+convenient:convenience, inconvenience, 
+ ========================== 
+unready:preparation, readiness, preparedness, 
+ ========================== 
+humble:conceit, humbleness, humility, 
+ ========================== 
+gaseous:state_of_matter, state, 
+ ========================== 
+sensitising:sensitivity, predisposition, 
+ ========================== 
+sociable:unsociability, sociableness, sociability, 
+ ========================== 
+exciting:excitement, fervour, fervor, inflammation, excitation, 
+ ========================== 
+poor:financial_condition, 
+ ========================== 
+thoughtful:unthoughtfulness, thoughtfulness, 
+ ========================== 
+thoughtful:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+postmeridian:clock_time, time, 
+ ========================== 
+coloured:color, colour, coloring, colouring, colorlessness, 
+ ========================== 
+heavy:weight, 
+ ========================== 
+inadmissible:admissibility, inadmissibility, 
+ ========================== 
+empty:emptiness, fullness, 
+ ========================== 
+informal:formalness, formality, informality, 
+ ========================== 
+informal:formalness, formality, informality, 
+ ========================== 
+multivalent:valence, valency, 
+ ========================== 
+multivalent:valence, valency, 
+ ========================== 
+similar:dissimilarity, similarity, 
+ ========================== 
+similar:alikeness, similitude, unlikeness, likeness, 
+ ========================== 
+actual:actuality, 
+ ========================== 
+not_intrusive:meddlesomeness, officiousness, intrusiveness, 
+ ========================== 
+distant:distance, 
+ ========================== 
+unsusceptible:susceptibility, susceptibleness, unsusceptibility, 
+ ========================== 
+inconclusive:decisiveness, finality, conclusiveness, 
+ ========================== 
+ugly:ugliness, beauty, 
+ ========================== 
+uninterrupted:continuity, persistence, 
+ ========================== 
+dead:living, life, animation, vitality, aliveness, 
+ ========================== 
+polyvalent:valence, valency, 
+ ========================== 
+polyvalent:valence, valency, 
+ ========================== 
+measurable:magnitude, 
+ ========================== 
+interior:position, spatial_relation, 
+ ========================== 
+dishonourable:honourableness, honorableness, dishonorableness, 
+ ========================== 
+non-living:animateness, liveness, inanimateness, aliveness, 
+ ========================== 
+capable:capability, capableness, potentiality, incapability, 
+ ========================== 
+fertile:fecundity, fertility, infertility, 
+ ========================== 
+powerless:powerlessness, powerfulness, power, 
+ ========================== 
+acquisitive:acquisitiveness, 
+ ========================== 
+extraordinary:mundaneness, ordinariness, extraordinariness, mundanity, 
+ ========================== 
+cyclic:periodicity, cyclicity, 
+ ========================== 
+foreign:unfamiliarity, strangeness, foreignness, familiarity, curiousness, nativeness, 
+ ========================== 
+modest:modesty, immodesty, modestness, 
+ ========================== 
+constant:inconstancy, constancy, stability, 
+ ========================== 
+sexual:gender, sexuality, sex, 
+ ========================== 
+equal:inequality, equality, 
+ ========================== 
+equal:adequateness, inadequacy, adequacy, 
+ ========================== 
+direct:directness, indirectness, straightness, 
+ ========================== 
+introspective:introspectiveness, 
+ ========================== 
+unpopular:unpopularity, popularity, 
+ ========================== 
+faster:speed, swiftness, fastness, 
+ ========================== 
+desensitising:sensitivity, predisposition, 
+ ========================== 
+civil:incivility, civility, 
+ ========================== 
+unalarming:dismay, alarm, consternation, 
+ ========================== 
+proud:pride, 
+ ========================== 
+introvertive:extraversion, ambiversion, introversion, 
+ ========================== 
+ineffectual:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
+cool:temperature, 
+ ========================== 
+cool:emotionality, emotionalism, unemotionality, 
+ ========================== 
+comfy:discomfort, comfort, comfortableness, 
+ ========================== 
+kind:unkindness, kindness, 
+ ========================== 
+bivalent:valence, valency, 
+ ========================== 
+undramatic:drama, 
+ ========================== 
+healthy:wellness, health, 
+ ========================== 
+higher:grade, degree, level, 
+ ========================== 
+higher:tallness, height, 
+ ========================== 
+higher:pitch, 
+ ========================== 
+perpendicular:orientation, 
+ ========================== 
+heedless:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+unfair:unfairness, equity, fairness, 
+ ========================== 
+long:duration, length, 
+ ========================== 
+long:length, 
+ ========================== 
+nice:niceness, nastiness, 
+ ========================== 
+superior:caliber, quality, calibre, 
+ ========================== 
+honorable:honourableness, honorableness, dishonorableness, 
+ ========================== 
+atypical:typicality, atypicality, 
+ ========================== 
+unlogical:illogicality, logicality, logicalness, 
+ ========================== 
+lawful:unlawfulness, lawfulness, 
+ ========================== 
+successful:failure, success, 
+ ========================== 
+responsible:irresponsibility, responsibility, responsibleness, 
+ ========================== 
+best:quality, 
+ ========================== 
+best:good, goodness, evil, 
+ ========================== 
+irresponsible:irresponsibility, responsibility, responsibleness, 
+ ========================== 
+happy:sadness, felicity, happiness, unhappiness, 
+ ========================== 
+liberal:ideology, political_orientation, political_theory, 
+ ========================== 
+current:currency, currentness, up-to-dateness, 
+ ========================== 
+impure:pureness, impurity, purity, 
+ ========================== 
+impure:morality, immorality, 
+ ========================== 
+future:timing, 
+ ========================== 
+unkind:unkindness, kindness, 
+ ========================== 
+noncritical:criticality, 
+ ========================== 
+noncritical:crisis, 
+ ========================== 
+beautiful:ugliness, beauty, 
+ ========================== 
+nigher:distance, 
+ ========================== 
+immediate:mediacy, immediateness, immediacy, 
+ ========================== 
+perfecter:flawlessness, ne_plus_ultra, imperfection, perfection, 
+ ========================== 
+unequal:inequality, equality, 
+ ========================== 
+unequal:adequateness, inadequacy, adequacy, 
+ ========================== 
+ultimate:ultimateness, ultimacy, 
+ ========================== 
+mature:immaturity, age, matureness, maturity, 
+ ========================== 
+high:grade, degree, level, 
+ ========================== 
+high:tallness, height, 
+ ========================== 
+high:pitch, 
+ ========================== 
+innumerate:numeracy, 
+ ========================== 
+unvaried:variety, diversity, diverseness, multifariousness, 
+ ========================== 
+latest:timing, 
+ ========================== 
+authorised:authorisation, authorization, mandate, 
+ ========================== 
+uncreative:creativeness, creative_thinking, creativity, 
+ ========================== 
+generous:generousness, generosity, stinginess, 
+ ========================== 
+crossbred:lineage, filiation, ancestry, derivation, 
+ ========================== 
+disobedient:disobedience, obedience, 
+ ========================== 
+imperfect:flawlessness, ne_plus_ultra, imperfection, perfection, 
+ ========================== 
+sensitizing:sensitivity, predisposition, 
+ ========================== 
+unpermissive:unpermissiveness, tolerance, permissiveness, 
+ ========================== 
+thinner:thinness, thickness, 
+ ========================== 
+thinner:body_weight, 
+ ========================== 
+thinner:body, consistence, eubstance, thickness, thinness, consistency, 
+ ========================== 
+unwilling:disposition, temperament, 
+ ========================== 
+unsure:diffidence, confidence, 
+ ========================== 
+unsure:confidence, self-confidence, certainty, uncertainty, self-assurance, authority, sureness, assurance, 
+ ========================== 
+live:living, life, animation, vitality, aliveness, 
+ ========================== 
+cold:temperature, 
+ ========================== 
+cold:emotionality, emotionalism, unemotionality, 
+ ========================== 
+impossible:impossibility, possibleness, possibility, 
+ ========================== 
+rugged:weakness, strength, 
+ ========================== 
+real:unreality, realness, realism, reality, 
+ ========================== 
+real:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+conservative:ideology, political_orientation, political_theory, 
+ ========================== 
+finer:texture, 
+ ========================== 
+gregarious:gregariousness, 
+ ========================== 
+wet:wetness, dryness, 
+ ========================== 
+temporary:permanence, permanency, impermanence, 
+ ========================== 
+opaque:opacity, clarity, opaqueness, 
+ ========================== 
+unbreakable:breakableness, unbreakableness, 
+ ========================== 
+inefficacious:inefficacy, efficacy, efficaciousness, 
+ ========================== 
+unerect:position, attitude, posture, 
+ ========================== 
+shy:diffidence, confidence, 
+ ========================== 
+inner:position, spatial_relation, 
+ ========================== 
+concise:prolixity, windiness, long-windedness, wordiness, prolixness, 
+ ========================== 
+colourful:color, vividness, colour, 
+ ========================== 
+extrospective:introspectiveness, 
+ ========================== 
+fresher:freshness, staleness, 
+ ========================== 
+loud:volume, loudness, intensity, 
+ ========================== 
+near:distance, 
+ ========================== 
+intellectual:mind, intellect, 
+ ========================== 
+unvarying:variety, diversity, diverseness, multifariousness, 
+ ========================== 
+impermanent:permanence, permanency, impermanence, 
+ ========================== 
+conspicuous:inconspicuousness, conspicuousness, 
+ ========================== 
+unsarcastic:sarcasm, irony, satire, caustic_remark, 
+ ========================== 
+middle:timing, 
+ ========================== 
+same:difference, sameness, 
+ ========================== 
+broken:unity, integrity, wholeness, 
+ ========================== 
+airworthy:airworthiness, 
+ ========================== 
+sincere:insincerity, sincerity, 
+ ========================== 
+reputable:repute, disrepute, reputation, 
+ ========================== 
+individual:individuation, individuality, commonality, individualism, 
+ ========================== 
+nonexistent:being, beingness, nonbeing, existence, 
+ ========================== 
+hearable:inaudibility, audibility, audibleness, 
+ ========================== 
+cubic:cubicity, 
+ ========================== 
+inessential:essentialness, essentiality, inessentiality, 
+ ========================== 
+lasting:permanence, permanency, impermanence, 
+ ========================== 
+sober:fun, playfulness, 
+ ========================== 
+cheerless:cheer, sunshine, cheerfulness, uncheerfulness, sunniness, 
+ ========================== 
+inexplicit:explicitness, inexplicitness, 
+ ========================== 
+complex:simplicity, complexity, complexness, 
+ ========================== 
+indirect:directness, indirectness, straightness, 
+ ========================== 
+timid:boldness, timorousness, timidity, 
+ ========================== 
+timid:diffidence, confidence, 
+ ========================== 
+unneeded:necessity, 
+ ========================== 
+noncyclic:periodicity, cyclicity, 
+ ========================== 
+breakable:breakableness, unbreakableness, 
+ ========================== 
+unintelligent:intelligence, stupidity, 
+ ========================== 
+bigger:size, 
+ ========================== 
+unhealthy:wellness, health, 
+ ========================== 
+malapropos:appropriateness, inappropriateness, 
+ ========================== 
+lower:grade, degree, level, 
+ ========================== 
+lower:tallness, height, 
+ ========================== 
+lower:pitch, 
+ ========================== 
+inactive:dormancy, quiescency, quiescence, 
+ ========================== 
+inactive:passiveness, passivity, 
+ ========================== 
+inactive:activeness, inactiveness, activity, 
+ ========================== 
+numerate:numeracy, 
+ ========================== 
+permanent:permanence, permanency, impermanence, 
+ ========================== 
+shallow:depth, deepness, 
+ ========================== 
+shallow:depth, deepness, 
+ ========================== 
+sufficient:quantity, 
+ ========================== 
+colourless:color, vividness, colour, 
+ ========================== 
+authorized:authorisation, authorization, mandate, 
+ ========================== 
+unessential:essentialness, essentiality, inessentiality, 
+ ========================== 
+ineffective:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
+logical:illogicality, logicality, logicalness, 
+ ========================== 
+malign:benignity, malignity, malignancy, malignance, 
+ ========================== 
+vertical:orientation, 
+ ========================== 
+vertical:position, attitude, posture, 
+ ========================== 
+noncrucial:crisis, 
+ ========================== 
+sentient:insentience, sentience, 
+ ========================== 
+potent:strength, potency, effectiveness, 
+ ========================== 
+incomplete:incompleteness, completeness, 
+ ========================== 
+fresh:freshness, staleness, 
+ ========================== 
+noncurrent:currency, currentness, up-to-dateness, 
+ ========================== 
+reassuring:reassurance, 
+ ========================== 
+unmusical:musicality, musicalness, 
+ ========================== 
+eastern:eastern_United_States, East, 
+ ========================== 
+eastern:East, Orient, 
+ ========================== 
+negative:quality, 
+ ========================== 
+thick:thinness, thickness, 
+ ========================== 
+thick:body, consistence, eubstance, thickness, thinness, consistency, 
+ ========================== 
+unappetising:unappetizingness, appetisingness, appetizingness, 
+ ========================== 
+achromatic:hue, chromaticity, 
+ ========================== 
+succeeding:temporal_relation, timing, 
+ ========================== 
+convertible:inconvertibility, convertibility, 
+ ========================== 
+untypical:typicality, atypicality, 
+ ========================== 
+easy:difficulty, ease, simplicity, simpleness, easiness, 
+ ========================== 
+noncommercial:commerce, mercantilism, commercialism, 
+ ========================== 
+old:age, 
+ ========================== 
+old:age, 
+ ========================== 
+true:trueness, verity, the_true, truth, falsity, 
+ ========================== 
+absent:absence, presence, 
+ ========================== 
+three-dimensional:cubicity, 
+ ========================== 
+incoming:direction, 
+ ========================== 
+noncyclical:periodicity, cyclicity, 
+ ========================== 
+stingy:generousness, generosity, stinginess, 
+ ========================== 
+stingy:insufficiency, adequacy, sufficiency, 
+ ========================== 
+effectual:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
+unplayful:fun, playfulness, 
+ ========================== 
+light-colored:value, 
+ ========================== 
+insignificant:insignificance, significance, 
+ ========================== 
+uncolored:color, colour, coloring, colouring, colorlessness, 
+ ========================== 
+unreasonable:reasonableness, 
+ ========================== 
+usual:unusualness, usualness, 
+ ========================== 
+courteous:courtesy, good_manners, discourtesy, 
+ ========================== 
+invisible:inconspicuousness, conspicuousness, 
+ ========================== 
+soiled:dirtiness, cleanness, 
+ ========================== 
+ready:preparation, readiness, preparedness, 
+ ========================== 
+mindful:heedfulness, unmindfulness, mindfulness, 
+ ========================== 
+unreassuring:reassurance, 
+ ========================== 
+commercial:commerce, mercantilism, commercialism, 
+ ========================== 
+worthy:unworthiness, worthiness, 
+ ========================== 
+upper-class:status, position, 
+ ========================== 
+monovalent:valence, valency, 
+ ========================== 
+monovalent:valence, valency, 
+ ========================== 
+strange:unfamiliarity, strangeness, foreignness, familiarity, curiousness, nativeness, 
+ ========================== 
+unconventional:conventionality, unconventionality, conventionalism, convention, 
+ ========================== 
+chromatic:hue, chromaticity, 
+ ========================== 
+nonfunctional:function, use, role, purpose, 
+ ========================== 
+functional:function, use, role, purpose, 
+ ========================== 
+neutral:hue, chromaticity, 
+ ========================== 
+unauthorised:authorisation, authorization, mandate, 
+ ========================== 
+heedful:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+uncoloured:color, colour, coloring, colouring, colorlessness, 
+ ========================== 
+unappetizing:unappetizingness, appetisingness, appetizingness, 
+ ========================== 
+regular:regularity, irregularity, 
+ ========================== 
+erect:position, attitude, posture, 
+ ========================== 
+human:manhood, humanness, humanity, 
+ ========================== 
+auspicious:propitiousness, inauspiciousness, auspiciousness, 
+ ========================== 
+unnecessary:necessity, 
+ ========================== 
+low-class:status, position, 
+ ========================== 
+tall:height, stature, 
+ ========================== 
+sensible:reasonableness, 
+ ========================== 
+general:generality, particularity, 
+ ========================== 
+illogical:illogicality, logicality, logicalness, 
+ ========================== 
+unhappy:sadness, felicity, happiness, unhappiness, 
+ ========================== 
+common:commonness, individuality, commonality, 
+ ========================== 
+common:commonness, everydayness, commonplaceness, uncommonness, 
+ ========================== 
+changeable:changeability, changelessness, changeableness, 
+ ========================== 
+inaudible:inaudibility, audibility, audibleness, 
+ ========================== 
+intrusive:meddlesomeness, officiousness, intrusiveness, 
+ ========================== 
+unoffending:distastefulness, offensiveness, odiousness, 
+ ========================== 
+stranger:unfamiliarity, strangeness, foreignness, familiarity, curiousness, nativeness, 
+ ========================== 
+obvious:obviousness, noticeability, patency, noticeableness, 
+ ========================== 
+willing:disposition, temperament, 
+ ========================== 
+unlikely:unlikelihood, likelihood, likeliness, 
+ ========================== 
+unobvious:obviousness, noticeability, patency, noticeableness, 
+ ========================== 
+uncommon:commonness, everydayness, commonplaceness, uncommonness, 
+ ========================== 
+mediate:mediacy, immediateness, immediacy, 
+ ========================== 
+inodorous:scent, odor, odour, aroma, olfactory_property, smell, 
+ ========================== 
+unbroken:unity, integrity, wholeness, 
+ ========================== 
+corrupt:incorruptness, corruptness, corruption, 
+ ========================== 
+corrupt:dishonesty, honesty, honestness, 
+ ========================== 
+weak:weakness, strength, 
+ ========================== 
+incapable:capability, capableness, potentiality, incapability, 
+ ========================== 
+antemeridian:clock_time, time, 
+ ========================== 
+ill-natured:nature, 
+ ========================== 
+drier:wetness, dryness, 
+ ========================== 
+male:gender, sexuality, sex, 
+ ========================== 
+liquid:state_of_matter, state, 
+ ========================== 
+careful:carelessness, carefulness, 
+ ========================== 
+awful:niceness, nastiness, 
+ ========================== 
+cognizant:cognisance, knowingness, consciousness, awareness, cognizance, 
+ ========================== 
+fastest:speed, swiftness, fastness, 
+ ========================== 
+astringent:astringency, stypsis, 
+ ========================== 
+dependent:independency, independence, 
+ ========================== 
+maternal:motherliness, maternalism, maternity, maternal_quality, 
+ ========================== 
+changeful:changeability, changelessness, changeableness, 
+ ========================== 
+anterograde:temporal_relation, 
+ ========================== 
+attractive:attractiveness, unattractiveness, 
+ ========================== 
+attractive:magnetic_attraction, magnetism, magnetic_force, 
+ ========================== 
+inadequate:adequateness, inadequacy, adequacy, 
+ ========================== 
+nigh:distance, 
+ ========================== 
+holy:unholiness, sanctity, sanctitude, holiness, 
+ ========================== 
+hot:temperature, 
+ ========================== 
+hot:emotionality, emotionalism, unemotionality, 
+ ========================== 
+unpropitious:propitiousness, inauspiciousness, auspiciousness, 
+ ========================== 
+creative:creativeness, creative_thinking, creativity, 
+ ========================== 
+meagre:insufficiency, adequacy, sufficiency, 
+ ========================== 
+ambitious:ambitiousness, ambition, 
+ ========================== 
+univalent:valence, valency, 
+ ========================== 
+univalent:valence, valency, 
+ ========================== 
+slow:speed, swiftness, fastness, 
+ ========================== 
+extinct:extinction, 
+ ========================== 
+inoffensive:distastefulness, offensiveness, odiousness, 
+ ========================== 
+inoffensive:distastefulness, offensiveness, odiousness, 
+ ========================== 
+scientific:scientific_knowledge, 
+ ========================== 
+complete:incompleteness, completeness, 
+ ========================== 
+certain:confidence, self-confidence, certainty, uncertainty, self-assurance, authority, sureness, assurance, 
+ ========================== 
+certain:sure_thing, certainty, uncertainty, foregone_conclusion, 
+ ========================== 
+healthier:wellness, health, 
+ ========================== 
+social:sociality, 
+ ========================== 
+unfertile:fecundity, fertility, infertility, 
+ ========================== 
+fuller:emptiness, fullness, 
+ ========================== 
+unemotional:emotionality, emotionalism, unemotionality, 
+ ========================== 
+nonmaterial:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+thin:thinness, thickness, 
+ ========================== 
+thin:body_weight, 
+ ========================== 
+thin:body, consistence, eubstance, thickness, thinness, consistency, 
+ ========================== 
+unconnected:connection, connexion, connectedness, 
+ ========================== 
+insufficient:quantity, 
+ ========================== 
+ambitionless:ambitiousness, ambition, 
+ ========================== 
+worse:quality, 
+ ========================== 
+independent:independency, independence, 
+ ========================== 
+immaterial:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+immaterial:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+seaworthy:seaworthiness, fitness, 
+ ========================== 
+brave:cowardice, courageousness, braveness, courage, bravery, 
+ ========================== 
+southern:Confederate_States, Dixie, Dixieland, Confederacy, Confederate_States_of_America, South, 
+ ========================== 
+southern:south, 
+ ========================== 
+typical:typicality, atypicality, 
+ ========================== 
+corporeal:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+early:timing, 
+ ========================== 
+useless:usefulness, inutility, utility, 
+ ========================== 
+unaccessible:handiness, availableness, accessibility, availability, 
+ ========================== 
+clear:obscurity, limpidity, pellucidity, lucidity, clarity, lucidness, clearness, 
+ ========================== 
+clear:clarity, uncloudedness, clearness, 
+ ========================== 
+clean:dirtiness, cleanness, 
+ ========================== 
+sensitive:sensitivity, sensitiveness, 
+ ========================== 
+sensitive:sensitivity, sensitiveness, 
+ ========================== 
+coarse:texture, 
+ ========================== 
+ignoble:nobleness, grandeur, nobility, magnanimousness, 
+ ========================== 
+fewest:numerousness, multiplicity, numerosity, 
+ ========================== 
+able:inability, ability, power, 
+ ========================== 
+paying_attention:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+discourteous:courtesy, good_manners, discourtesy, 
+ ========================== 
+colorful:color, vividness, colour, 
+ ========================== 
+colorful:color, colour, coloring, colouring, colorlessness, 
+ ========================== 
+bad:quality, 
+ ========================== 
+unworthy:unworthiness, worthiness, 
+ ========================== 
+inappropriate:appropriateness, inappropriateness, 
+ ========================== 
+sharper:keenness, sharpness, dullness, 
+ ========================== 
+abnormal:normalcy, abnormality, normality, 
+ ========================== 
+correct:incorrectness, rightness, correctness, 
+ ========================== 
+introverted:introspectiveness, 
+ ========================== 
+thoughtless:unthoughtfulness, thoughtfulness, 
+ ========================== 
+unheeding:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+stupid:intelligence, stupidity, 
+ ========================== 
+tractable:tractability, flexibility, tractableness, intractability, 
+ ========================== 
+unusual:unusualness, usualness, 
+ ========================== 
+different:difference, sameness, 
+ ========================== 
+harsh:texture, 
+ ========================== 
+desensitizing:sensitivity, predisposition, 
+ ========================== 
+critical:criticality, 
+ ========================== 
+critical:crisis, 
+ ========================== 
+practical:practicality, impracticality, 
+ ========================== 
+nighest:distance, 
+ ========================== 
+aware:cognisance, knowingness, consciousness, awareness, cognizance, 
+ ========================== 
+aware:heedfulness, unmindfulness, mindfulness, 
+ ========================== 
+unafraid:fearlessness, fear, fearfulness, fright, 
+ ========================== 
+unsuccessful:failure, success, 
+ ========================== 
+solid:state_of_matter, state, 
+ ========================== 
+solid:solidity, hollowness, 
+ ========================== 
+immoderate:immoderation, moderation, moderateness, 
+ ========================== 
+infertile:fecundity, fertility, infertility, 
+ ========================== 
+uninteresting:interestingness, interest, 
+ ========================== 
+nonmoving:motion, motionlessness, 
+ ========================== 
+unauthorized:authorisation, authorization, mandate, 
+ ========================== 
+frivolous:seriousness, frivolity, earnestness, serious-mindedness, sincerity, 
+ ========================== 
+domestic:domesticity, 
+ ========================== 
+dryer:wetness, dryness, 
+ ========================== 
+nonsexual:gender, sexuality, sex, 
+ ========================== 
+acknowledged:acknowledgment, recognition, acknowledgement, 
+ ========================== 
+unaffected:affectedness, unaffectedness, 
+ ========================== 
+nonmusical:musicality, musicalness, 
+ ========================== 
+insincere:insincerity, sincerity, 
+ ========================== 
+indispensable:dispensability, dispensableness, indispensability, 
+ ========================== 
+longer:duration, length, 
+ ========================== 
+longer:length, 
+ ========================== 
+senior:seniority, senior_status, higher_rank, higher_status, 
+ ========================== 
+attentive:attention, 
+ ========================== 
+attentive:paying_attention, attentiveness, inattentiveness, regard, heed, 
+ ========================== 
+disloyal:trueness, disloyalty, loyalty, 
+ ========================== 
+incorrect:incorrectness, rightness, correctness, 
+ ========================== 
+separate:union, separation, 
+ ========================== 
+far:distance, 
+ ========================== 
+fat:body_weight, 
+ ========================== 
+indehiscent:dehiscence, 
+ ========================== 
+double:valence, valency, 
+ ========================== 
+improper:propriety, correctitude, impropriety, properness, 
+ ========================== 
+tamed:tameness, wildness, domestication, 
+ ========================== 
+tamer:tameness, wildness, domestication, 
+ ========================== 
+inclined:orientation, 
+ ========================== 
+gluttonous:gluttony, 
+ ========================== 
+wild:tameness, wildness, 
+ ========================== 
+lean:body_weight, 
+ ========================== 
+unconvertible:inconvertibility, convertibility, 
+ ========================== 
+unjust:unfairness, equity, fairness, 
+ ========================== 
+rich:financial_condition, 
+ ========================== 
+blonde:skin_colour, complexion, skin_color, 
+ ========================== 
+destructible:indestructibility, destructibility, 
+ ========================== 
+unexchangeable:inconvertibility, convertibility, 
+ ========================== 
+tame:tameness, wildness, domestication, 
+ ========================== 
+mensurable:magnitude, 
+ ========================== 
+alarming:dismay, alarm, consternation, 
+ ========================== 
+insubstantial:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+mindless:heedfulness, unmindfulness, mindfulness, 
+ ========================== 
+external:position, spatial_relation, 
+ ========================== 
+small:size, 
+ ========================== 
+past:timing, 
+ ========================== 
+full:emptiness, fullness, 
+ ========================== 
+intended:intentionality, 
+ ========================== 
+brunette:skin_colour, complexion, skin_color, 
+ ========================== 
+incognizant:cognisance, knowingness, consciousness, awareness, cognizance, 
+ ========================== 
+heterosexual:sexual_activity, sex, sex_activity, sexual_practice, 
+ ========================== 
+nonabsorbent:absorbency, nonabsorbency, 
+ ========================== 
+inhumane:inhumaneness, humaneness, 
+ ========================== 
+fewer:numerousness, multiplicity, numerosity, 
+ ========================== 
+varied:variety, diversity, diverseness, multifariousness, 
+ ========================== 
+perfect:flawlessness, ne_plus_ultra, imperfection, perfection, 
+ ========================== 
+colorless:color, vividness, colour, 
+ ========================== 
+obedient:disobedience, obedience, 
+ ========================== 
+musical:musicality, musicalness, 
+ ========================== 
+insensitive:sensitivity, sensitiveness, 
+ ========================== 
+insensitive:sensitivity, sensitiveness, 
+ ========================== 
+cooler:temperature, 
+ ========================== 
+cooler:emotionality, emotionalism, unemotionality, 
+ ========================== 
+efficacious:inefficacy, efficacy, efficaciousness, 
+ ========================== 
+efficacious:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
+insentient:insentience, sentience, 
+ ========================== 
+admissible:admissibility, inadmissibility, 
+ ========================== 
+indestructible:indestructibility, destructibility, 
+ ========================== 
+conventional:conventionality, unconventionality, conventionalism, convention, 
+ ========================== 
+horizontal:orientation, 
+ ========================== 
+close:distance, 
+ ========================== 
+close:distance, 
+ ========================== 
+impious:piousness, impiety, piety, 
+ ========================== 
+like:alikeness, similitude, unlikeness, likeness, 
+ ========================== 
+popular:unpopularity, popularity, 
+ ========================== 
+friendly:friendliness, unfriendliness, 
+ ========================== 
+brunet:skin_colour, complexion, skin_color, 
+ ========================== 
+powerful:powerlessness, powerfulness, power, 
+ ========================== 
+necessary:necessity, 
+ ========================== 
+broad:width, breadth, 
+ ========================== 
+north:north, 
+ ========================== 
+likely:unlikelihood, likelihood, likeliness, 
+ ========================== 
+subordinate:status, position, 
+ ========================== 
+maleficent:mischief, maleficence, beneficence, balefulness, 
+ ========================== 
+ungregarious:gregariousness, 
+ ========================== 
+bright:luminance, brightness, luminosity, luminousness, light, brightness_level, 
+ ========================== 
+nearest:distance, 
+ ========================== 
+interesting:interestingness, interest, 
+ ========================== 
+odourless:scent, odor, odour, aroma, olfactory_property, smell, 
+ ========================== 
+careless:carelessness, carefulness, 
+ ========================== 
+unimportant:importance, unimportance, 
+ ========================== 
+unimportant:insignificance, significance, 
+ ========================== 
+dramatic:drama, 
+ ========================== 
+westerner:West, Occident, 
+ ========================== 
+westerner:western_United_States, West, 
+ ========================== 
+intractable:tractability, flexibility, tractableness, intractability, 
+ ========================== 
+doubler:valence, valency, 
+ ========================== 
+uncomplete:incompleteness, completeness, 
+ ========================== 
+appetizing:unappetizingness, appetisingness, appetizingness, 
+ ========================== 
+unchangeable:changeability, changelessness, changeableness, 
+ ========================== 
+female:gender, sexuality, sex, 
+ ========================== 
+illiterate:illiteracy, literacy, 
+ ========================== 
+absorbent:absorbency, nonabsorbency, 
+ ========================== 
+tasteful:taste, appreciation, perceptiveness, discernment, 
+ ========================== 
+unfamiliar:familiarity, unfamiliarity, 
+ ========================== 
+meager:insufficiency, adequacy, sufficiency, 
+ ========================== 
+extroverted:introspectiveness, 
+ ========================== 
+sure:confidence, self-confidence, certainty, uncertainty, self-assurance, authority, sureness, assurance, 
+ ========================== 
+later:timing, 
+ ========================== 
+delicate:weakness, strength, 
+ ========================== 
+tasty:taste_property, 
+ ========================== 
+abstracter:concreteness, abstractness, 
+ ========================== 
+short:duration, length, 
+ ========================== 
+short:length, 
+ ========================== 
+short:height, stature, 
+ ========================== 
+wilder:tameness, wildness, 
+ ========================== 
+ample:insufficiency, adequacy, sufficiency, 
+ ========================== 
+uncheerful:cheer, sunshine, cheerfulness, uncheerfulness, sunniness, 
+ ========================== 
+unexciting:excitement, fervour, fervor, inflammation, excitation, 
+ ========================== 
+unavailable:handiness, availableness, accessibility, availability, 
+ ========================== 
+minor:majority, minority, 
+ ========================== 
+larger:size, 
+ ========================== 
+inaccessible:handiness, availableness, accessibility, availability, 
+ ========================== 
+nearer:distance, 
+ ========================== 
+unclear:obscurity, limpidity, pellucidity, lucidity, clarity, lucidness, clearness, 
+ ========================== 
+unclean:dirtiness, cleanness, 
+ ========================== 
+fearful:cowardice, cowardliness, courage, 
+ ========================== 
+difficult:difficulty, ease, difficultness, 
+ ========================== 
+incredible:incredibility, credibility, believability, credibleness, 
+ ========================== 
+unscientific:scientific_knowledge, 
+ ========================== 
+uncertain:confidence, self-confidence, certainty, uncertainty, self-assurance, authority, sureness, assurance, 
+ ========================== 
+uncertain:sure_thing, certainty, uncertainty, foregone_conclusion, 
+ ========================== 
+straight:shape, configuration, contour, form, conformation, 
+ ========================== 
+straight:curliness, straightness, waviness, 
+ ========================== 
+straight:dishonesty, honesty, honestness, 
+ ========================== 
+sterile:fecundity, fertility, infertility, 
+ ========================== 
+effective:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
+courageous:cowardice, courageousness, braveness, courage, bravery, 
+ ========================== 
+even:unevenness, invariability, evenness, 
+ ========================== 
+fair:unfairness, equity, fairness, 
+ ========================== 
+possible:impossibility, possibleness, possibility, 
+ ========================== 
+possible:potential, potentiality, potency, 
+ ========================== 
+unhallowed:unholiness, sanctity, sanctitude, holiness, 
+ ========================== 
+positive:quality, 
+ ========================== 
+dehiscent:dehiscence, 
+ ========================== 
+crooked:shape, configuration, contour, form, conformation, 
+ ========================== 
+crooked:dishonesty, honesty, honestness, 
+ ========================== 
+unsociable:unsociability, sociableness, sociability, 
+ ========================== 
+self-examining:introspectiveness, 
+ ========================== 
+leaner:body_weight, 
+ ========================== 
+original:originality, unoriginality, 
+ ========================== 
+young:age, 
+ ========================== 
+easterner:eastern_United_States, East, 
+ ========================== 
+easterner:East, Orient, 
+ ========================== 
+odorous:scent, odor, odour, aroma, olfactory_property, smell, 
+ ========================== 
+insensate:insentience, sentience, 
+ ========================== 
+outward:outwardness, inwardness, 
+ ========================== 
+whole:unity, integrity, wholeness, 
+ ========================== 
+high-pitched:pitch, 
+ ========================== 
+inconvertible:inconvertibility, convertibility, 
+ ========================== 
+inconstant:inconstancy, constancy, stability, 
+ ========================== 
+uncivil:incivility, civility, 
+ ========================== 
+ordinary:mundaneness, ordinariness, extraordinariness, mundanity, 
+ ========================== 
+affected:affectedness, unaffectedness, 
+ ========================== 
+evil:good, evil, evilness, 
+ ========================== 
+passive:passiveness, passivity, 
+ ========================== 
+polite:politeness, niceness, impoliteness, 
+ ========================== 
+polite:incivility, civility, 
+ ========================== 
+explicit:explicitness, inexplicitness, 
+ ========================== 
+nonstandard:amount, quantity, measure, 
+ ========================== 
+absorptive:absorbency, nonabsorbency, 
+ ========================== 
+abundant:quantity, 
+ ========================== 
+fractional:unity, integrity, wholeness, 
+ ========================== 
+strong:weakness, strength, 
+ ========================== 
+strong:strength, potency, effectiveness, 
+ ========================== 
+colored:color, colour, coloring, colouring, colorlessness, 
+ ========================== 
+longest:duration, length, 
+ ========================== 
+longest:length, 
+ ========================== 
+substantial:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+unmoving:motion, motionlessness, 
+ ========================== 
+useful:usefulness, inutility, utility, 
+ ========================== 
+inattentive:attention, 
+ ========================== 
+nonastringent:astringency, stypsis, 
+ ========================== 
+asexual:gender, sexuality, sex, 
+ ========================== 
+accurate:inaccuracy, truth, accuracy, 
+ ========================== 
+low-level:status, position, 
+ ========================== 
+new:age, 
+ ========================== 
+impotent:strength, potency, effectiveness, 
+ ========================== 
+unsensational:sensationalism, 
+ ========================== 
+pure:pureness, impurity, purity, 
+ ========================== 
+pure:morality, immorality, 
+ ========================== 
+earlier:timing, 
+ ========================== 
+continuous:continuity, persistence, 
+ ========================== 
+black:value, 
+ ========================== 
+manipulable:tractability, flexibility, tractableness, intractability, 
+ ========================== 
+light-haired:skin_colour, complexion, skin_color, 
+ ========================== 
+outgoing:direction, 
+ ========================== 
+narrow:width, breadth, 
+ ========================== 
+dispensable:dispensability, dispensableness, indispensability, 
+ ========================== 
+late:timing, 
+ ========================== 
+pleasant:unpleasantness, sweetness, pleasantness, 
+ ========================== 
+spirited:vivification, animation, brio, spiritedness, invigoration, 
+ ========================== 
+significant:insignificance, significance, 
+ ========================== 
+unacknowledged:acknowledgment, recognition, acknowledgement, 
+ ========================== 
+unwary:unwariness, wariness, chariness, 
+ ========================== 
+moderate:immoderation, moderation, moderateness, 
+ ========================== 
+unreal:unreality, realness, realism, reality, 
+ ========================== 
+unreal:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+comfortable:discomfort, comfort, comfortableness, 
+ ========================== 
+fearless:fearlessness, fear, fearfulness, fright, 
+ ========================== 
+western:West, Occident, 
+ ========================== 
+western:western_United_States, West, 
+ ========================== 
+propitious:propitiousness, inauspiciousness, auspiciousness, 
+ ========================== 
+unorthodox:unorthodoxy, orthodoxy, 
+ ========================== 
+specific:generality, particularity, 
+ ========================== 
+low-pitched:pitch, 
+ ========================== 
+preceding:temporal_relation, timing, 
+ ========================== 
+inauspicious:propitiousness, inauspiciousness, auspiciousness, 
+ ========================== 
+unbelievable:incredibility, credibility, believability, credibleness, 
+ ========================== 
+alike:alikeness, similitude, unlikeness, likeness, 
+ ========================== 
+odorless:scent, odor, odour, aroma, olfactory_property, smell, 
+ ========================== 
+retrograde:temporal_relation, 
+ ========================== 
+legal:illegality, legality, 
+ ========================== 
+loyal:trueness, disloyalty, loyalty, 
+ ========================== 
+worst:quality, 
+ ========================== 
+susceptible:susceptibility, susceptibleness, unsusceptibility, 
+ ========================== 
+undomestic:domesticity, 
+ ========================== 
+fast:speed, swiftness, fastness, 
+ ========================== 
+south:Confederate_States, Dixie, Dixieland, Confederacy, Confederate_States_of_America, South, 
+ ========================== 
+chaste:virginity, sexual_morality, virtue, chastity, 
+ ========================== 
+few:numerousness, multiplicity, numerosity, 
+ ========================== 
+lower-class:status, position, 
+ ========================== 
+orthodox:unorthodoxy, orthodoxy, 
+ ========================== 
+other:otherness, distinctness, separateness, 
+ ========================== 
+immature:age, 
+ ========================== 
+immature:immaturity, age, matureness, maturity, 
+ ========================== 
+cyclical:periodicity, cyclicity, 
+ ========================== 
+unmindful:heedfulness, unmindfulness, mindfulness, 
+ ========================== 
+incorrupt:incorruptness, corruptness, corruption, 
+ ========================== 
+uneven:unevenness, invariability, evenness, 
+ ========================== 
+natural:naturalness, unnaturalness, 
+ ========================== 
+fine:texture, 
+ ========================== 
+square:dishonesty, honesty, honestness, 
+ ========================== 
+good-natured:nature, 
+ ========================== 
+impractical:practicality, impracticality, 
+ ========================== 
+scarce:quantity, 
+ ========================== 
+middle-class:status, position, 
+ ========================== 
+dark:light, lightness, 
+ ========================== 
+dark:value, 
+ ========================== 
+cognisant:cognisance, knowingness, consciousness, awareness, cognizance, 
+ ========================== 
+large:size, 
+ ========================== 
+honourable:honourableness, honorableness, dishonorableness, 
+ ========================== 
+uncomfortable:discomfort, comfort, comfortableness, 
+ ========================== 
+internal:position, spatial_relation, 
+ ========================== 
+comprehensive:comprehensiveness, fullness, 
+ ========================== 
+purebred:lineage, filiation, ancestry, derivation, 
+ ========================== 
+concrete:concreteness, abstractness, 
+ ========================== 
+formal:formalness, formality, informality, 
+ ========================== 
+formal:formalness, formality, informality, 
+ ========================== 
+anterior:position, spatial_relation, 
+ ========================== 
+expressed:explicitness, inexplicitness, 
+ ========================== 
+depressing:cheer, sunshine, cheerfulness, uncheerfulness, sunniness, 
+ ========================== 
+unintrusive:meddlesomeness, officiousness, intrusiveness, 
+ ========================== 
+nonintellectual:mind, intellect, 
+ ========================== 
+standard:amount, quantity, measure, 
+ ========================== 
+adequate:adequateness, inadequacy, adequacy, 
+ ========================== 
+nasty:niceness, nastiness, 
+ ========================== 
+unable:inability, ability, 
+ ========================== 
+scrimpy:insufficiency, adequacy, sufficiency, 
+ ========================== 
+forgetful:heedfulness, unmindfulness, mindfulness, 
+ ========================== 
+playful:fun, playfulness, 
+ ========================== 
+utile:usefulness, inutility, utility, 
+ ========================== 
+noble:nobleness, grandeur, nobility, magnanimousness, 
+ ========================== 
+closest:distance, 
+ ========================== 
+closest:distance, 
+ ========================== 
+low:grade, degree, level, 
+ ========================== 
+low:tallness, height, 
+ ========================== 
+low:pitch, 
+ ========================== 
+unnatural:naturalness, unnaturalness, 
+ ========================== 
+unnatural:normalcy, abnormality, normality, 
+ ========================== 
+unnatural:affectedness, unaffectedness, 
+ ========================== 
+deficient:quantity, 
+ ========================== 
+northern:Union, North, 
+ ========================== 
+northern:north, 
+ ========================== 
+dominant:status, position, 
+ ========================== 
+older:age, 
+ ========================== 
+older:age, 
+ ========================== 
+audible:inaudibility, audibility, audibleness, 
+ ========================== 
+alive:living, life, animation, vitality, aliveness, 
+ ========================== 
+cheerful:cheer, sunshine, cheerfulness, uncheerfulness, sunniness, 
+ ========================== 
+unfaithful:infidelity, fidelity, faithfulness, 
+ ========================== 
+prolix:prolixity, windiness, long-windedness, wordiness, prolixness, 
+ ========================== 
+nonhuman:manhood, humanness, humanity, 
+ ========================== 
+outer:position, spatial_relation, 
+ ========================== 
+unlawful:unlawfulness, lawfulness, 
+ ========================== 
+humane:inhumaneness, humaneness, 
+ ========================== 
+nonabsorptive:absorbency, nonabsorbency, 
+ ========================== 
+meagerly:insufficiency, adequacy, sufficiency, 
+ ========================== 
+dry:wetness, dryness, 
+ ========================== 
+wary:unwariness, wariness, chariness, 
+ ========================== 
+warm:temperature, 
+ ========================== 
+warm:emotionality, emotionalism, unemotionality, 
+ ========================== 
+modern:contemporaneity, modernity, contemporaneousness, modernness, modernism, 
+ ========================== 
+little:size, 
+ ========================== 
+little:height, stature, 
+ ========================== 
+potential:potential, potentiality, potency, 
+ ========================== 
+dull:dullness, 
+ ========================== 
+dull:luminance, brightness, luminosity, luminousness, light, brightness_level, 
+ ========================== 
+apropos:appropriateness, inappropriateness, 
+ ========================== 
+dishonorable:honourableness, honorableness, dishonorableness, 
+ ========================== 
+diffident:diffidence, confidence, 
+ ========================== 
+untamed:tameness, wildness, 
+ ========================== 
+important:importance, unimportance, 
+ ========================== 
+important:insignificance, significance, 
+ ========================== 
+cowardly:cowardice, cowardliness, courage, 
+ ========================== 
+hard:difficulty, ease, difficultness, 
+ ========================== 
+hard:softness, hardness, 
+ ========================== 
+simple:simplicity, complexity, complexness, 
+ ========================== 
+single:individuation, individuality, commonality, individualism, 
+ ========================== 
+commoner:commonness, individuality, commonality, 
+ ========================== 
+commoner:commonness, everydayness, commonplaceness, uncommonness, 
+ ========================== 
+implicit:explicitness, inexplicitness, 
+ ========================== 
+existent:being, beingness, nonbeing, existence, 
+ ========================== 
+existent:unreality, realness, realism, reality, 
+ ========================== 
+existent:actuality, 
+ ========================== 
+unoriginal:originality, unoriginality, 
+ ========================== 
+inferior:caliber, quality, calibre, 
+ ========================== 
+accessible:handiness, availableness, accessibility, availability, 
+ ========================== 
+proper:propriety, correctitude, impropriety, properness, 
+ ========================== 
+unacquisitive:acquisitiveness, 
+ ========================== 
+ungenerous:generousness, generosity, stinginess, 
+ ========================== 
+exchangeable:inconvertibility, convertibility, 
+ ========================== 
+disreputable:repute, disrepute, reputation, 
+ ========================== 
+inconvenient:convenience, inconvenience, 
+ ========================== 
+irregular:regularity, irregularity, 
+ ========================== 
+exterior:position, spatial_relation, 
+ ========================== 
+faithful:infidelity, fidelity, faithfulness, 
+ ========================== 
+noticeable:obviousness, noticeability, patency, noticeableness, 
+ ========================== 
+many:numerousness, multiplicity, numerosity, 
+ ========================== 
+unalike:alikeness, similitude, unlikeness, likeness, 
+ ========================== 
+serious:seriousness, frivolity, earnestness, serious-mindedness, sincerity, 
+ ========================== 
+serious:fun, playfulness, 
+ ========================== 
+believable:incredibility, credibility, believability, credibleness, 
+ ========================== 
+essential:essentialness, essentiality, inessentiality, 
+ ========================== 
+dormant:dormancy, quiescency, quiescence, 
+ ========================== 
+junior:seniority, senior_status, higher_rank, higher_status, 
+ ========================== 
+worrisome:reassurance, 
+ ========================== 
+smaller:size, 
+ ========================== 
+inaccurate:inaccuracy, truth, accuracy, 
+ ========================== 
+introversive:extraversion, ambiversion, introversion, 
+ ========================== 
+light:weight, 
+ ========================== 
+light:value, 
+ ========================== 
+light:light, lightness, 
+ ========================== 
+material:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+material:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+material:solidness, substantiality, insubstantiality, substantialness, 
+ ========================== 
+present:timing, 
+ ========================== 
+present:absence, presence, 
+ ========================== 
+inconspicuous:inconspicuousness, conspicuousness, 
+ ========================== 
+unsocial:sociality, 
+ ========================== 
+hollow:solidity, hollowness, 
+ ========================== 
+unintended:intentionality, 
+ ========================== 
+right:position, place, 
+ ========================== 
+right:incorrectness, rightness, correctness, 
+ ========================== 
+right:rightness, wrongness, 
+ ========================== 
+animate:animateness, liveness, inanimateness, aliveness, 
+ ========================== 
+animate:insentience, sentience, 
+ ========================== 
+unfree:freedom, 
+ ========================== 
+unaware:cognisance, knowingness, consciousness, awareness, cognizance, 
+ ========================== 
+lighter:weight, 
+ ========================== 
+lighter:value, 
+ ========================== 
+lighter:light, lightness, 
+ ========================== 
+impolite:politeness, niceness, impoliteness, 
+ ========================== 
+dissimilar:dissimilarity, similarity, 
+ ========================== 
+dissimilar:alikeness, similitude, unlikeness, likeness, 
+ ========================== 
+major:bulk, majority, minority, 
+ ========================== 
+appropriate:appropriateness, inappropriateness, 
+ ========================== 
+existing:being, beingness, nonbeing, existence, 
+ ========================== 
+illegal:illegality, legality, 
+ ========================== 
+infelicitous:infelicity, felicity, felicitousness, 
+ ========================== 
+familiar:familiarity, unfamiliarity, 
+ ========================== 
+homosexual:sexual_activity, sex, sex_activity, sexual_practice, 
+ ========================== 
+wetter:wetness, dryness, 
+ ========================== 
+felicitous:infelicity, felicity, felicitousness, 
+ ========================== 
+unfortunate:propitiousness, inauspiciousness, auspiciousness, 
+ ========================== 
+repulsive:attraction, repulsion, repulsive_force, 
+ ========================== 
+immodest:modesty, immodesty, modestness, 
+ ========================== 
+unchaste:sexual_morality, virtue, chastity, 
+ ========================== 
+lowest:grade, degree, level, 
+ ========================== 
+lowest:tallness, height, 
+ ========================== 
+lowest:pitch, 
+ ========================== 
+emotional:emotionality, emotionalism, unemotionality, 
+ ========================== 
+abstract:concreteness, abstractness, 
+ ========================== 
+curly:curliness, straightness, waviness, 
+ ========================== 
+younger:age, 
+ ========================== 
+beneficent:maleficence, beneficence, 
+ ========================== 
+posterior:position, spatial_relation, 
+ ========================== 
+attributable:ascription, attribution, 
+ ========================== 
+rude:incivility, civility, 
+ ========================== 
+earliest:timing, 
+ ========================== 
+stale:freshness, staleness, 
+ ========================== 
+cleaner:dirtiness, cleanness, 
+ ========================== 
+stiff:strength, potency, effectiveness, 
+ ========================== 
+immoral:morality, immorality, 
+ ========================== 
+connected:connection, connexion, connectedness, 
+ ========================== 
+appetising:unappetizingness, appetisingness, appetizingness, 
+ ========================== 
+warmer:temperature, 
+ ========================== 
+warmer:emotionality, emotionalism, unemotionality, 
+ ========================== 
+offensive:distastefulness, offensiveness, odiousness, 
+ ========================== 
+offensive:distastefulness, offensiveness, odiousness, 
+ ========================== 
+active:activeness, inactiveness, activity, 
+ ========================== 
+active:activeness, inactiveness, activity, 
+ ========================== 
+active:action, activeness, activity, inaction, 
+ ========================== 
+moral:morality, immorality, 
+ ========================== 
+slowest:speed, swiftness, fastness, 
+ ========================== 
+moving:motion, motionlessness, 
+ ========================== 
+abstemious:abstemiousness, 
+ ========================== 
+left:position, place, 
+ ========================== 
+just:unfairness, equity, fairness, 
+ ========================== 
+bold:hardiness, hardihood, boldness, daring, timidity, 
+ ========================== 
+unholy:unholiness, sanctity, sanctitude, holiness, 
+ ========================== 
+mild:grade, degree, level, 
+ ========================== 
+unpleasant:unpleasantness, sweetness, pleasantness, 
+ ========================== 
+permissive:unpermissiveness, tolerance, permissiveness, 
+ ========================== 
+pious:piousness, impiety, piety, 
+ ========================== 
+androgynous:gender, sexuality, sex, 
+ ========================== 
+sarcastic:sarcasm, irony, satire, caustic_remark, 
+ ========================== 
+normal:normalcy, abnormality, normality, 
+ ========================== 
+sharp:keenness, sharpness, dullness, 
+ ========================== 
+available:handiness, availableness, accessibility, availability, 
+ ========================== 
+good:quality, 
+ ========================== 
+good:good, goodness, evil, 
+ ========================== 
+spiritless:vivification, animation, brio, spiritedness, invigoration, 
+ ========================== 
+unnoticeable:obviousness, noticeability, patency, noticeableness, 
+ ========================== 
+big:size, 
+ ========================== 
+of_import:importance, unimportance, 
+ ========================== 
+unseaworthy:seaworthiness, fitness, 
+ ========================== 
+deep:depth, deepness, 
+ ========================== 
+deep:depth, deepness, 
+ ========================== 
+soft:softness, hardness, 
+ ========================== 
+soft:volume, loudness, intensity, 
+ ========================== 
+conclusive:decisiveness, finality, conclusiveness, 
+ ========================== 
+free:freedom, 
+ ========================== 
+paternal:paternal_quality, fatherliness, 
+ ========================== 
+confident:diffidence, confidence, 
+ ========================== 
+afraid:fearlessness, fear, fearfulness, fright, 
+ ========================== 
+unambitious:ambitiousness, ambition, 
+ ========================== 
+insusceptible:susceptibility, susceptibleness, unsusceptibility, 
+ ========================== 
+slower:speed, swiftness, fastness, 
+ ========================== 
+unfriendly:friendliness, unfriendliness, 
+ ========================== 
+white:value, 
+ ========================== 
+wide:width, breadth, 
+ ========================== 
+tasteless:taste_property, 
+ ========================== 
+tasteless:taste, appreciation, perceptiveness, discernment, 
+ ========================== 
+littler:size, 
+ ========================== 
+littler:height, stature, 
+ ========================== 
+inward:inwardness, outwardness, internality, 
+ ========================== 
+incorporeal:physicalness, corporality, materiality, immateriality, corporeality, 
+ ========================== 
+intense:grade, degree, level, 
+ ========================== 
+credible:incredibility, credibility, believability, credibleness, 
+ ========================== 
+unattributable:ascription, attribution, 
+ ========================== 
+upright:position, attitude, posture, 
+ ========================== 
+unattractive:attractiveness, unattractiveness, 
+ ========================== 
+benignant:benignity, malignity, graciousness, benignancy, 
+ ========================== 
+closer:distance, 
+ ========================== 
+closer:distance, 
+ ========================== 
+uneffective:effectuality, effectiveness, effectivity, ineffectiveness, effectualness, 
+ ========================== 
