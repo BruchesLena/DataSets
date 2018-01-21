@@ -2,7 +2,8 @@
 
 # DataSets
 
-## [DataSet for gradient values](https://raw.githubusercontent.com/BruchesLena/DataSets/master/gradientValues.txt)
+## Gradient values
+### [DataSet for gradient values](https://raw.githubusercontent.com/BruchesLena/DataSets/master/gradientValues.txt)
 Size: 100 pairs
 
 Task: for a given pair of words one should determine what word is closer to the maximum value (e.g. *fast* is closer to **max** and *slow* is closer to **min**).
