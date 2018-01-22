@@ -51,8 +51,10 @@ Example:
 `long:duration, length`
 
 ### [Data set for this task](https://raw.githubusercontent.com/BruchesLena/DataSets/master/testSet.txt)
+### [Validation set](https://raw.githubusercontent.com/BruchesLena/DataSets/master/validationSet.txt)
+These sets can be used for training and testing your models.
 
-Contains 200 samples, 3-5 candidates in each sample.
+Both sets contain 200 samples, 3-5 candidates in each sample.
 
 Organized in the following way:
 
