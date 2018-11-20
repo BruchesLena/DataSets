@@ -7,7 +7,7 @@ classes: 1
 activation: sigmoid
 encoder_weights: pascal_voc
 shape: [768, 768, 3]
-crop:3
+crop: 3
 optimizer: Adam
 batch: 8
 metrics:
