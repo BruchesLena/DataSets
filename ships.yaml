@@ -8,7 +8,7 @@ activation: sigmoid
 encoder_weights: pascal_voc
 shape: [320, 320, 3]
 optimizer: Adam
-batch: 4
+batch: 16
 metrics:
   - binary_accuracy
 primary_metric: val_binary_accuracy
