@@ -6,7 +6,7 @@ augmentation:
 classes: 1
 activation: sigmoid
 encoder_weights: pascal_voc
-shape: [320, 320, 3]
+shape: [192, 192, 3]
 optimizer: Adam
 batch: 16
 metrics:
