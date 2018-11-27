@@ -27,4 +27,4 @@ callbacks:
 loss: binary_crossentropy
 stages:
   - epochs: 1
-    negatives: 2
+    negatives: real
