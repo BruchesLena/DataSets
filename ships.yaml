@@ -14,7 +14,7 @@ metrics:
 primary_metric: val_binary_accuracy
 callbacks:
   EarlyStopping:
-    patience: 15
+    patience: 5
     monitor: val_binary_accuracy
     verbose: 1
   ReduceLROnPlateau:
@@ -26,5 +26,5 @@ callbacks:
     verbose: 1
 loss: binary_crossentropy
 stages:
-  - epochs: 1
+  - epochs: 100
     negatives: real
