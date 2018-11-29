@@ -26,5 +26,5 @@ callbacks:
     verbose: 1
 loss: binary_crossentropy
 stages:
-  - epochs: 1
+  - epochs: 30
     negatives: real
