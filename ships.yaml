@@ -5,7 +5,7 @@ augmentation:
 
 classes: 1
 activation: sigmoid
-encoder_weights: pascal_voc
+encoder_weights: imagenet
 shape: [101, 101, 3]
 optimizer: Adam
 batch: 16
