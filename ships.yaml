@@ -1,14 +1,14 @@
-backbone: densenet201
-architecture: FPN
+backbone: resnext50
+architecture: Unet
 augmentation:
  Fliplr: 0.5
 
 classes: 1
 activation: sigmoid
 encoder_weights: imagenet
-shape: [101, 101, 3]
+shape: [224, 224, 3]
 optimizer: Adam
-batch: 16
+batch: 2
 metrics:
   - binary_accuracy
 primary_metric: val_binary_accuracy
