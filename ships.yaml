@@ -11,7 +11,7 @@ optimizer: Adam
 batch: 2
 metrics:
   - binary_accuracy
-primary_metric: val_binary_accuracy
+primary_metric: val_loss
 callbacks:
   EarlyStopping:
     patience: 5
