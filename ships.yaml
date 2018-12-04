@@ -15,12 +15,12 @@ primary_metric: val_binary_accuracy
 callbacks:
   EarlyStopping:
     patience: 5
-    monitor: val_binary_accuracy
+    monitor: val_loss
     verbose: 1
   ReduceLROnPlateau:
     patience: 4
     factor: 0.5
-    monitor: val_binary_accuracy
+    monitor: val_loss
     mode: auto
     cooldown: 5
     verbose: 1
