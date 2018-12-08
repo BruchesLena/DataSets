@@ -1,4 +1,4 @@
-backbone: inceptionresnetv2
+backbone: inceptionv3
 architecture: Unet
 augmentation:
  Fliplr: 0.5
