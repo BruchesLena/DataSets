@@ -1,4 +1,4 @@
-backbone: resnet34
+backbone: inceptionresnetv2
 architecture: Unet
 augmentation:
  Fliplr: 0.5
