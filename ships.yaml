@@ -1,4 +1,4 @@
-backbone: inceptionv3
+backbone: resnet34
 architecture: Unet
 augmentation:
  Fliplr: 0.5
@@ -14,11 +14,11 @@ metrics:
 primary_metric: val_loss
 callbacks:
   EarlyStopping:
-    patience: 5
+    patience: 3
     monitor: val_loss
     verbose: 1
   ReduceLROnPlateau:
-    patience: 4
+    patience: 2
     factor: 0.5
     monitor: val_loss
     mode: auto
@@ -26,5 +26,5 @@ callbacks:
     verbose: 1
 loss: binary_crossentropy
 stages:
-  - epochs: 10
+  - epochs: 20
     negatives: real
