@@ -8,23 +8,23 @@ activation: sigmoid
 encoder_weights: pascal_voc
 shape: [101, 101, 3]
 optimizer: Adam
-batch: 2
+batch: 4
 metrics:
   - binary_accuracy
 primary_metric: val_loss
 callbacks:
   EarlyStopping:
-    patience: 3
+    patience: 4
     monitor: val_loss
     verbose: 1
   ReduceLROnPlateau:
-    patience: 2
+    patience: 3
     factor: 0.5
     monitor: val_loss
     mode: auto
     cooldown: 5
     verbose: 1
-loss: binary_crossentropy+0.1*dice_loss
+loss: binary_crossentropy+dice_loss
 stages:
   - epochs: 20
     negatives: real
