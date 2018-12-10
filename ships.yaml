@@ -1,4 +1,4 @@
-backbone: mobilenet
+backbone: mobilenetv2
 architecture: FPN
 augmentation:
  Fliplr: 0.5
