@@ -6,7 +6,7 @@ augmentation:
 classes: 1
 activation: sigmoid
 encoder_weights: pascal_voc
-shape: [101, 101, 3]
+shape: [384, 384, 3]
 optimizer: Adam
 batch: 2
 metrics:
@@ -24,12 +24,7 @@ callbacks:
     mode: auto
     cooldown: 5
     verbose: 1
-  CyclicLR:
-    base_lr: 0.0001
-    max_lr: 0.01
-    mode: triangular2
-    step_size: 300
 loss: binary_crossentropy
 stages:
   - epochs: 20
-    negatives: real
+    negatives: 1
