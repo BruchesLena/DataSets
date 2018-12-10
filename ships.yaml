@@ -1,12 +1,12 @@
-backbone: inceptionv3
-architecture: Unet
+backbone: mobilenet
+architecture: FPN
 augmentation:
  Fliplr: 0.5
 
 classes: 1
 activation: sigmoid
-encoder_weights: imagenet
-shape: [224, 224, 3]
+encoder_weights: pascal_voc
+shape: [101, 101, 3]
 optimizer: Adam
 batch: 2
 metrics:
