@@ -24,12 +24,7 @@ callbacks:
     mode: auto
     cooldown: 5
     verbose: 1
-  CyclicLR:
-    base_lr: 0.0001
-    max_lr: 0.01
-    mode: triangular2
-    step_size: 300
-loss: binary_crossentropy
+loss: binary_crossentropy+0.1*dice_loss
 stages:
   - epochs: 20
     negatives: real
