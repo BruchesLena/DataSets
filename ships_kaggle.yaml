@@ -9,7 +9,7 @@ encoder_weights: pascal_voc
 shape: [384, 384, 3]
 optimizer: Adam
 batch: 2
-folds_count: 3
+folds_count: 2
 metrics:
   - binary_accuracy
 primary_metric: val_loss
