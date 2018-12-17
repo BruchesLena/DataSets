@@ -7,15 +7,14 @@ classes: 28
 activation: sigmoid
 weights: imagenet
 shape: [256, 256, 4]
-optimizer: Adam
+optimizer: Nadam
 batch: 16
-lr: 0.0005
 copyWeights: true
 metrics:
   - binary_accuracy
   - macro_f1
 primary_metric: val_loss
-primary_metric_mode: max
+primary_metric_mode: auto
 callbacks:
   EarlyStopping:
     patience: 3
