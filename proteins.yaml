@@ -6,29 +6,29 @@ augmentation:
 classes: 28
 activation: sigmoid
 weights: imagenet
-shape: [128, 128, 4]
+shape: [256, 256, 4]
 optimizer: Adam
-batch: 32
+batch: 16
 lr: 0.0005
 copyWeights: true
 metrics:
   - binary_accuracy
   - macro_f1
-primary_metric: val_binary_accuracy
+primary_metric: val_loss
 primary_metric_mode: max
 callbacks:
   EarlyStopping:
-    patience: 15
-    monitor: val_macro_f1
+    patience: 3
+    monitor: val_loss
     mode: max
     verbose: 1
   ReduceLROnPlateau:
-    patience: 4
+    patience: 2
     factor: 0.3
-    monitor: val_binary_accuracy
+    monitor: val_loss
     mode: max
     cooldown: 1
     verbose: 1
 loss: binary_crossentropy
 stages:
-  - epochs: 50
+  - epochs: 10
