@@ -1,4 +1,4 @@
-architecture: DenseNet201
+architecture: DenseNet121
 pooling: avg
 augmentation:
  Fliplr: 0.5
