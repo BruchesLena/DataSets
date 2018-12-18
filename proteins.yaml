@@ -1,4 +1,4 @@
-architecture: xception
+architecture: inceptionv3
 pooling: avg
 augmentation:
  Fliplr: 0.5
