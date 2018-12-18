@@ -1,4 +1,4 @@
-architecture: Xception
+architecture: MobileNetV2
 pooling: avg
 augmentation:
  Fliplr: 0.5
