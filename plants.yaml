@@ -13,7 +13,6 @@ lr: 0.0005
 copyWeights: true
 metrics:
   - accuracy
-  - macro_f1
 primary_metric: val_loss
 primary_metric_mode: auto
 callbacks:
@@ -31,4 +30,4 @@ callbacks:
     verbose: 1
 loss: categorical_crossentropy
 stages:
-  - epochs: 50
+  - epochs: 20
