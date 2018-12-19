@@ -6,7 +6,7 @@ augmentation:
 classes: 28
 activation: sigmoid
 weights: imagenet
-shape: [224, 224, 4]
+shape: [224, 224, 3]
 optimizer: Adam
 batch: 16
 lr: 0.005
