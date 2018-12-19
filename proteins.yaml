@@ -1,4 +1,4 @@
-architecture: MobileNetV2
+architecture: DenseNet201
 pooling: avg
 augmentation:
  Fliplr: 0.5
@@ -8,8 +8,8 @@ activation: sigmoid
 weights: imagenet
 shape: [224, 224, 4]
 optimizer: Adam
-batch: 32
-lr: 0.0005
+batch: 16
+lr: 0.005
 copyWeights: true
 metrics:
   - binary_accuracy
@@ -18,12 +18,12 @@ primary_metric: val_binary_accuracy
 primary_metric_mode: max
 callbacks:
   EarlyStopping:
-    patience: 15
+    patience: 3
     monitor: val_macro_f1
     mode: max
     verbose: 1
   ReduceLROnPlateau:
-    patience: 4
+    patience: 2
     factor: 0.3
     monitor: val_binary_accuracy
     mode: max
@@ -31,4 +31,4 @@ callbacks:
     verbose: 1
 loss: binary_crossentropy
 stages:
-  - epochs: 50
+  - epochs: 10
