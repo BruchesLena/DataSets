@@ -1,4 +1,4 @@
-architecture: MobileNetV2
+architecture: DenseNet201
 pooling: avg
 augmentation:
  Fliplr: 0.5
@@ -6,7 +6,7 @@ augmentation:
 classes: 28
 activation: sigmoid
 weights: imagenet
-shape: [224, 224, 4]
+shape: [128, 128, 4]
 optimizer: Adam
 batch: 16
 lr: 0.0005
